@@ -1,0 +1,65 @@
+[
+  {
+    "name": "about",
+    "path": "/about",
+    "component": "C:\\\\Users\\\\User\\\\Desktop\\\\unstoppable-book\\\\pages\\\\about.vue",
+    "chunkName": "pages/about",
+    "_name": "_4c856c9e"
+  },
+  {
+    "name": "blog",
+    "path": "/blog",
+    "component": "C:\\\\Users\\\\User\\\\Desktop\\\\unstoppable-book\\\\pages\\\\blog.vue",
+    "chunkName": "pages/blog",
+    "_name": "_596b1921"
+  },
+  {
+    "name": "blog-details",
+    "path": "/blog-details",
+    "component": "C:\\\\Users\\\\User\\\\Desktop\\\\unstoppable-book\\\\pages\\\\blog-details.vue",
+    "chunkName": "pages/blog-details",
+    "_name": "_43309316"
+  },
+  {
+    "name": "contact",
+    "path": "/contact",
+    "component": "C:\\\\Users\\\\User\\\\Desktop\\\\unstoppable-book\\\\pages\\\\contact.vue",
+    "chunkName": "pages/contact",
+    "_name": "_43599171"
+  },
+  {
+    "name": "project",
+    "path": "/project",
+    "component": "C:\\\\Users\\\\User\\\\Desktop\\\\unstoppable-book\\\\pages\\\\project.vue",
+    "chunkName": "pages/project",
+    "_name": "_08e493ea"
+  },
+  {
+    "name": "project-details",
+    "path": "/project-details",
+    "component": "C:\\\\Users\\\\User\\\\Desktop\\\\unstoppable-book\\\\pages\\\\project-details.vue",
+    "chunkName": "pages/project-details",
+    "_name": "_704b34df"
+  },
+  {
+    "name": "service",
+    "path": "/service",
+    "component": "C:\\\\Users\\\\User\\\\Desktop\\\\unstoppable-book\\\\pages\\\\service.vue",
+    "chunkName": "pages/service",
+    "_name": "_640e3cf4"
+  },
+  {
+    "name": "service-details",
+    "path": "/service-details",
+    "component": "C:\\\\Users\\\\User\\\\Desktop\\\\unstoppable-book\\\\pages\\\\service-details.vue",
+    "chunkName": "pages/service-details",
+    "_name": "_5f13b30a"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\User\\\\Desktop\\\\unstoppable-book\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_6c3d4763"
+  }
+]
